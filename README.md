@@ -22,23 +22,22 @@
    Languages and Tools
 -->
 ## 🛠️ Languages and Tools
-<code><img height="30" src="https://user-images.githubusercontent.com/30444771/118570625-287df500-b742-11eb-8e0d-3e934bc7b6bd.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/30444771/118571054-eb663280-b742-11eb-9a2b-fbc54ba06634.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/30444771/118571691-3b91c480-b744-11eb-875a-d9b9dec6c65c.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/30444771/118571480-c45c3080-b743-11eb-8b14-d7f4a3bb3a72.png"></code>
-<code><img height="30" src="https://miro.medium.com/max/1000/1*vmFSpk9xtpxAHkH7cmt-3Q.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_haskell_icon_130552.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_racket_icon_130211.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_julia_icon_130496.png"></code>
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/30444771/118572655-93c9c600-b746-11eb-924b-2c6a4faca6f1.png"></code>
-<code><img height="30" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/30444771/118572837-f0c57c00-b746-11eb-8f5b-e220a8c3d6e7.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/30444771/118571905-ca064600-b744-11eb-8657-103726fa1751.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code>
-<code><img height="30" src="https://pbs.twimg.com/profile_images/852661770036535296/oYcD0Q6W_400x400.jpg"></code>
-
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Visual_Studio_icon-icons.com_56597.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png"></code>
 
 <!--
   Github stats
