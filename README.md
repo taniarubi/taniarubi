@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet">
+
 <!--
   Visitors
 -->
@@ -7,16 +9,19 @@
   My presentation
 -->
 <h1 align="center">✨ Hi, I'm Tania Rubí! ✨ </h1>
-<h3 align="center">👩‍🎓  Computer Science Student || 💻 Cybersecurity  Data Science || 📚 Abstract Algebra </h3>
+<h3 align="center">👩‍🎓  Computer Science Student || 💻 Cybersecurity Data Science || 📚 Abstract Algebra </h3>
 <h3 align="center">Never Stop Learning</h3>
 
 ## 🙋‍♀️ About me
 
 <img align="right" alt="GIF" height="250" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60" />
 
-* 🚀 Self-taught study Data Science and Cybersecurity
-* 🚀 I like abstract algebra and number theory.
-* 🚀 I'm in the process of making a personal blog
+* 📚 Self-taught study Data Science, Cybersecurity and Web Development.
+* 💚 I love mathematics, especially number theory and abstract algebra.
+* 📌 I'm currently working on my portafolio. 
+* 🙌 I love to share my knowledge with others, so I'm also working on creating a blog!
+* 😄 Pronouns: She/her.
+* 🗺️ Languages: Spanish, English and Italian.
 
 <!--
    Languages and Tools
