@@ -2,3 +2,11 @@ body {
     font-family: Helvetica;
     font-size: 12pt;
 }
+
+.contenedor-imagenes {
+  display: flex;
+}
+
+.contenedor-imagenes img:first-child {
+  margin-right: 10px;
+}
