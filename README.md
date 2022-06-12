@@ -56,10 +56,10 @@
 -->
 ## ⚡ GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taniarubi&show_icons=true&theme=midnight-purple&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taniarubi&show_icons=true&theme=codeSTACKr&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniarubi&layout=compact&langs_count=10&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniarubi&layout=compact&langs_count=10&theme=codeSTACKr" />
 </a>
 
 <!--
@@ -71,7 +71,7 @@
 <img align="right" alt="GIF" height="210" src="https://melmagazine.com/wp-content/uploads/2018/08/1oW5-3epMX2BNg_dgbUqXjw.gif"/>
 	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&cover_image=true&theme=novatorem&bar_color=b88e94&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&cover_image=true&theme=novatorem&bar_color=9a7fcc&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&redirect=true)
 
 
 <!--
