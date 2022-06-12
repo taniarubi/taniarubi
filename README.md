@@ -94,8 +94,3 @@ Feel free to drop in a message!
   <a href="https://www.instagram.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://t.me/LuciernagaAzul" target="_blank"><img src="https://img.icons8.com/bubbles/50/undefined/telegram-app.png" alt="Telegram"/></a>
 </p>
-
-<!--
-  Made with love in Mexico
--->
-!*[Made with love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorA=%23000000&colorB=%239238dc)
