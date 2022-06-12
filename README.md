@@ -9,8 +9,8 @@
   My presentation
 -->
 <h1 align="center">✨ Hi, I'm Tania Rubí! ✨ </h1>
-<h3 align="center">👩‍🎓  Computer Science Student || 💻 Cybersecurity Data Science || 📚 Abstract Algebra </h3>
-<h3 align="center">Never Stop Learning</h3>
+<h3 align="center">👩‍🎓  Computer Science Student || 📊 Data Science || 💻 DevSecOps || 🔒 Cryptography || 📚 Abstract Algebra </h3>
+<h3 align="center">Never Stop Learning & Share Knowledge </h3>
 
 ## 🙋‍♀️ About me
 
@@ -27,22 +27,7 @@
    Languages and Tools
 -->
 ## 🛠️ Languages and Tools
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_haskell_icon_130552.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_racket_icon_130211.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_julia_icon_130496.png"></code>
-
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Visual_Studio_icon-icons.com_56597.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png"></code>
-<code><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png"></code>
+![image](https://user-images.githubusercontent.com/30444771/173207999-e64737d2-da4c-4996-8d6e-f6a325b6076c.png)
 
 <!--
   Github stats
@@ -59,9 +44,16 @@
   Spotify
 -->
 ## 🎧 Listening now
-<img align="right" alt="GIF" height="200" src="https://melmagazine.com/wp-content/uploads/2018/08/1oW5-3epMX2BNg_dgbUqXjw.gif" />
+<div class="opciones">
+        <div class="opcion">texto 1 con varias lineas</div>
+        <div class="opcion">texto 2</div>
+        <div class="opcion">texto 3</div>
+        <div class="opcion">texto 4</div>
+    </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o3tt7zq355ffkj27ufmh426qz&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=o3tt7zq355ffkj27ufmh426qz&redirect=true)
+<img align="center" alt="GIF" height="200" src="https://melmagazine.com/wp-content/uploads/2018/08/1oW5-3epMX2BNg_dgbUqXjw.gif" />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&cover_image=true&theme=novatorem&bar_color=6fb6c8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&redirect=true)
 
 <!--
   My social media.
@@ -85,4 +77,4 @@ Feel free to drop in a message!
 <!--
   Made with love in Mexico
 -->
-![Made with love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorA=%23000000&colorB=%239238dc)
+!*[Made with love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorA=%23000000&colorB=%239238dc)
