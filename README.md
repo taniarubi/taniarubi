@@ -80,21 +80,20 @@
 <!--
   My social media.
 -->
-## 🤙 Let's Connect!
+## 🤝 Let's Connect!
 Feel free to drop in a message!
 
-<a href="https://www.linkedin.com/in/tania-rub%C3%AD-685a97172/">
-  <img align="left" alt="Tania Rubí's LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/725/725337.png" />
-</a>
-<a href="https://twitter.com/taniarrubi">
-  <img align="left" alt="Tania Rubí's Twitter" width="35px" src="https://image.flaticon.com/icons/png/512/356/356025.png" />
-</a>
-<a href="mailto:taniarrubi@gmail.com">
-  <img align="left" alt="Tania Rubí's Gmail" width="35px" src="https://image.flaticon.com/icons/png/512/324/324123.png" />
-</a>
-<a href="https://t.me/LuciernagaAzul">
-  <img align="left" alt="Tania Rubí's Telegram" width="35px" src="https://image.flaticon.com/icons/png/512/408/408737.png" />
-</a><br><br>
+<p align="justify">
+  <!--
+	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  -->
+	<a href="https://github.com/taniarubi" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/tania-rub%C3%AD-685a97172/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://twitter.com/taniarrubi" target="_blank"><img src="https://img.icons8.com/bubbles/50/undefined/twitter-circled.png" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://t.me/LuciernagaAzul" target="_blank"><img src="https://img.icons8.com/bubbles/50/undefined/telegram-app.png" alt="Telegram"/></a>
+</p>
 
 <!--
   Made with love in Mexico
