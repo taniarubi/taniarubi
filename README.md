@@ -30,10 +30,18 @@
 
 <table><tr><td valign="top" width="33%">
 <h3 align="center">Programming Languages</h3>
-<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.python.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
+	<!--
+   	<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+	-->
+	<p align="center">
+		<a href="https://www.python.org" > <img src="https://img.icons8.com/dusk/64/undefined/python.png" alt="python" width="50" height="50"/></a>
+		<a href="https://www.oracle.com/java/" > <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-java-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="java" width="50" height="50"/> </a>
+		<a href="https://devdocs.io/c/" > <img src="https://img.icons8.com/dusk/64/undefined/c.png" alt="c" width="50" height="50"/> </a>
+		<a href="https://www.haskell.org/" > <img src="https://img.icons8.com/dusk/64/undefined/haskell.png" alt="haskell" width="50" height="50"/> </a>
+	</p>
   
 <h3 align="center">IDEs/Editor</h3>
-<p align="center"> <a href="https://codepen.io/" > <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="codepen" width="40" height="40"/> </a> <a href="https://jupyter.org/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="jupyter notebook" width="40" height="40"/> <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="replit" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://codepen.io/" > <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="codepen" width="40" height="40"/> </a> <a href="https://jupyter.org/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="jupyter notebook" width="40" height="40"/> <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > </p>
   
 </td><td valign="top" width="33%">
 <h3 align="center">Frontend Development</h3>
