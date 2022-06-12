@@ -68,7 +68,15 @@
 
 </td><td valign="top" width="33%">
 <h3 align="center">Backend Development</h3>
-<p align="center"> <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/> </a> <a href="https://socket.io/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/330px-Socket-io.svg.png" alt="socket" width="40" height="40"/> </a> </p>
+<p align="center"> 
+	<!--
+	<a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
+	<a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/> </a> 
+	<a href="https://socket.io/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/330px-Socket-io.svg.png" alt="socket" width="40" height="40"/> </a> 
+-->
+	<a href="https://flask.palletsprojects.com/en/2.1.x/" > <img src="https://img.icons8.com/fluency/48/undefined/flask.png" alt="flask" width="40" height="40"/> </a> 
+	<a href="https://www.djangoproject.com/" > <img src="https://img.icons8.com/ios/50/undefined/django.png" alt="django" width="40" height="40"/> </a> 
+</p>
   
 </td></tr></table>
 
@@ -93,7 +101,6 @@
 	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&cover_image=true&theme=novatorem&bar_color=9a7fcc&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&redirect=true)
-
 
 <!--
   My social media.
