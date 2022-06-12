@@ -2,19 +2,3 @@ body {
     font-family: Helvetica;
     font-size: 12pt;
 }
-
-.opciones {
-            overflow:hidden;
-            text-align: center;
-            margin:auto;
-            background:red;
-        }
- 
-        .opcion {
-            display:inline-table;
-            border:10px solid #ccc;
-            padding:15px;
-            height:100px;
-            width:100px;
-            margin:3px;
-        }
