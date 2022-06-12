@@ -66,20 +66,18 @@
   Spotify
 -->
 ## 🎧 Listening now
-<div class="opciones">
-        <div class="opcion">texto 1 con varias lineas</div>
-        <div class="opcion">texto 2</div>
-        <div class="opcion">texto 3</div>
-        <div class="opcion">texto 4</div>
-    </div>
 
-<img align="center" alt="GIF" height="200" src="https://melmagazine.com/wp-content/uploads/2018/08/1oW5-3epMX2BNg_dgbUqXjw.gif" />
+&nbsp;&nbsp;
+<img align="right" alt="GIF" height="210" src="https://melmagazine.com/wp-content/uploads/2018/08/1oW5-3epMX2BNg_dgbUqXjw.gif"/>
+	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&cover_image=true&theme=novatorem&bar_color=b88e94&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&redirect=true)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&cover_image=true&theme=novatorem&bar_color=6fb6c8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31x2x4fylyfgdp2us5vxnx4pfjxi&redirect=true)
 
 <!--
   My social media.
 -->
+&nbsp;&nbsp;&nbsp;
 ## 🤝🏼 Let's Connect!
 Feel free to drop in a message!
 
@@ -90,7 +88,7 @@ Feel free to drop in a message!
   -->
 	<a href="https://github.com/taniarubi" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/tania-rub%C3%AD-685a97172/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://twitter.com/taniarrubi" target="_blank"><img src="https://img.icons8.com/bubbles/50/undefined/twitter-circled.png" alt="Twitter"/></a>
-  <a href="mailto:taniarrubi@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/undefined/gmail-new.png" alt="Gmail"/></a>
+	<a href="https://twitter.com/taniarrubi" target="_blank"><img src="https://img.icons8.com/bubbles/50/undefined/twitter-circled.png" alt="Twitter"/></a>
+	<a href="mailto:taniarrubi@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/undefined/gmail-new.png" alt="Gmail"/></a>
 	<a href="https://t.me/LuciernagaAzul" target="_blank"><img src="https://img.icons8.com/bubbles/50/undefined/telegram-app.png" alt="Telegram"/></a>
 </p>
