@@ -16,8 +16,8 @@
 
 <img align="right" alt="GIF" height="250" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60" />
 
-* 📚 Self-taught study Data Science, Cybersecurity and Web Development.
-* 💚 I love mathematics, especially number theory and abstract algebra.
+* 📚 Self-taught study Data Science, DevOps, Cybersecurity, Blockchain and Web Development.
+* 💚 I love mathematics, especially Abstract Algebra.
 * 📌 I'm currently working on my portafolio. 
 * 🙌 I love to share my knowledge with others, so I'm also working on creating a blog!
 * 😄 Pronouns: She/her.
@@ -57,7 +57,7 @@
 ## ⚡ GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=taniarubi&show_icons=true&theme=aura&count_private=true" />
-</a>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniarubi&layout=compact&langs_count=10&theme=aura" />
 </a>
