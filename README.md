@@ -80,7 +80,7 @@
 <!--
   My social media.
 -->
-## 🤝 Let's Connect!
+## 🤝🏼 Let's Connect!
 Feel free to drop in a message!
 
 <p align="justify">
@@ -91,6 +91,6 @@ Feel free to drop in a message!
 	<a href="https://github.com/taniarubi" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/tania-rub%C3%AD-685a97172/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://twitter.com/taniarrubi" target="_blank"><img src="https://img.icons8.com/bubbles/50/undefined/twitter-circled.png" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <a href="mailto:taniarrubi@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/undefined/gmail-new.png" alt="Gmail"/></a>
 	<a href="https://t.me/LuciernagaAzul" target="_blank"><img src="https://img.icons8.com/bubbles/50/undefined/telegram-app.png" alt="Telegram"/></a>
 </p>
