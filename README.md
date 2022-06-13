@@ -64,7 +64,7 @@
 	<a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
   
 <h3 align="center">Other</h3>
-<p align="center"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.digitalocean.com/" > <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" alt="digitalocean" width="40" height="40"/> </a> <a href="https://www.apache.org/" > <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.apache.org/" > <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/> </a> </p>
 
 </td><td valign="top" width="33%">
 <h3 align="center">Backend Development</h3>
@@ -76,6 +76,12 @@
 -->
 	<a href="https://flask.palletsprojects.com/en/2.1.x/" > <img src="https://img.icons8.com/fluency/48/undefined/flask.png" alt="flask" width="40" height="40"/> </a> 
 	<a href="https://www.djangoproject.com/" > <img src="https://img.icons8.com/ios/50/undefined/django.png" alt="django" width="40" height="40"/> </a> 
+</p>
+		
+<h3 align="center">AI & ML</h3>
+<p align="center"> 
+	<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/> </a> 
+	<a href="https://img.stackshare.io/service/3116/LJ_Gsz28_400x400.png" alt="scrapy" width="40" height="40"/> </a>
 </p>
   
 </td></tr></table>
