@@ -28,7 +28,7 @@
 -->
 ## 🛠️ Languages and Tools
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%">
 <h3 align="center">Programming Languages</h3>
 	<!--
    	<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
@@ -60,8 +60,8 @@
 	<a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/> </a> 
 	<a href="https://socket.io/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/330px-Socket-io.svg.png" alt="socket" width="40" height="40"/> </a> 
 -->
-	<a href="https://flask.palletsprojects.com/en/2.1.x/" > <img src="https://img.icons8.com/fluency/48/undefined/flask.png" alt="flask" width="40" height="40"/> </a> 
-	<a href="https://www.djangoproject.com/" > <img src="https://img.icons8.com/ios/50/undefined/django.png" alt="django" width="40" height="40"/> </a> 
+	<a href="https://flask.palletsprojects.com/en/2.1.x/" > <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> </a> 
+	<a href="https://www.djangoproject.com/" > <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 </p>
 		
 <h3 align="center">Database & Testing</h3>
@@ -80,13 +80,16 @@
 <h3 align="center">AI & ML</h3>
 <p align="center"> 
 	<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/> </a> 
-	<a href="https://cdn.worldvectorlogo.com/logos/django.svg" alt="scrapy" width="40" height="40"/> </a>
+	<a href="https://scrapy.org/" target="_blank"> <img src="https://b.thumbs.redditmedia.com/e2dMSMwIGoSHH0kHGrQk83oDxo-qy43aKJxlHKDv-ZU.png" alt="scikitlearn" width="40" height="40"/> </a> 
 </p>
-</td>
-
-<td valign="top" width="33%">
+	
 <h3 align="center">Other</h3>
-<p align="center"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.apache.org/" > <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/> </a> </p>
+<p align="center"> 
+	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+	<a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+	<a href="https://www.microsoft.com/en-us/microsoft-365/excel" > <img src="https://img.icons8.com/color/48/undefined/ms-excel.png" alt="excel" width="40" height="40"/> </a>
+	<a href="https://www.latex-project.org/" > <img src="https://img.icons8.com/fluency/48/undefined/texshop.png" alt="latex" width="40" height="40"/> </a> 
+</p>
 </td>
 	
 </tr></table>
